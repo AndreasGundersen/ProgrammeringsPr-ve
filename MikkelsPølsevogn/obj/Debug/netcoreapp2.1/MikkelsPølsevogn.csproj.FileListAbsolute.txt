@@ -1,0 +1,11 @@
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\bin\Debug\netcoreapp2.1\MikkelsPølsevogn.deps.json
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\bin\Debug\netcoreapp2.1\MikkelsPølsevogn.runtimeconfig.json
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\bin\Debug\netcoreapp2.1\MikkelsPølsevogn.runtimeconfig.dev.json
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\bin\Debug\netcoreapp2.1\MikkelsPølsevogn.dll
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\bin\Debug\netcoreapp2.1\MikkelsPølsevogn.pdb
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.csprojAssemblyReference.cache
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.csproj.CoreCompileInputs.cache
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.AssemblyInfoInputs.cache
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.AssemblyInfo.cs
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.dll
+C:\Users\hqk200\source\repos\MikkelsPølsevogn\MikkelsPølsevogn\obj\Debug\netcoreapp2.1\MikkelsPølsevogn.pdb
